@@ -1,0 +1,7 @@
+2017-04-16 01:55:57 INFO  TestBase:24 - ========================== Starting verifyLoginWithInvalidData test =========================
+2017-04-16 01:55:57 INFO  HomePage:38 - clicked on signin link and object is :-[[FirefoxDriver: Firefox on XP (8e2ea9e1-fbcb-44a5-be2e-8e7e36ccf328)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-04-16 01:56:00 INFO  HomePage:41 - Entered email address as test@gmail.comand objects is :-[[FirefoxDriver: Firefox on XP (8e2ea9e1-fbcb-44a5-be2e-8e7e36ccf328)] -> xpath: //*[@id='email']]
+2017-04-16 01:56:00 INFO  HomePage:43 - Entered password as Passwordand objects is :-[[FirefoxDriver: Firefox on XP (8e2ea9e1-fbcb-44a5-be2e-8e7e36ccf328)] -> xpath: //*[@id='passwd']]
+2017-04-16 01:56:00 INFO  HomePage:45 - Signin Button clicked & obect is :-[[FirefoxDriver: Firefox on XP (8e2ea9e1-fbcb-44a5-be2e-8e7e36ccf328)] -> xpath: //*[@id='SubmitLogin']]
+2017-04-16 01:56:02 INFO  HomePage:51 - Error message is :-Authentication failed.
+2017-04-16 01:56:02 INFO  TestBase:29 - ======================= Finished verifyLoginWithInvalidData test =============================
